@@ -1,0 +1,7 @@
+# Requirements needed when generating releases. See BUILD.rst for details.
+robotframework >= 3.2.1
+robotframework-seleniumlibrary >= 4.4.0
+openpyxl
+requests
+robotframework-requests
+robotframework-jsonlibrary
